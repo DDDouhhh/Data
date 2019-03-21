@@ -1,0 +1,338 @@
+{
+ "name": "魔兽世界国服TOP10服务器种族人口统计",
+ "children": [
+  {
+   "name": "安苏",
+   "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":6165},
+		 {"name":"矮人","value":422},
+		 {"name":"暗夜精灵","value":4904},
+		 {"name":"侏儒","value":946},
+		 {"name":"德莱尼","value":683},
+		 {"name":"狼人","value":577},
+		 {"name":"联盟熊猫人","value":509},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:2758},
+         {"name": "牛头人", "value":2968},
+         {"name": "巨魔", "value":1771},
+         {"name": "被遗忘者", "value":2691},
+         {"name": "血精灵", "value":10700},
+		 {"name":"地精","value":493},
+		 {"name":"部落熊猫人","value":944},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+     ]
+    }
+   ],
+	  "name":"死亡之翼",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":594},
+		 {"name":"矮人","value":40},
+		 {"name":"暗夜精灵","value":499},
+		 {"name":"侏儒","value":74},
+		 {"name":"德莱尼","value":81},
+		 {"name":"狼人","value":53},
+		 {"name":"联盟熊猫人","value":191},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:3251},
+         {"name": "牛头人", "value":4014},
+         {"name": "巨魔", "value":3693},
+         {"name": "被遗忘者", "value":3125},
+         {"name": "血精灵", "value":17778},
+		 {"name":"地精","value":753},
+		 {"name":"部落熊猫人","value":1789},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ],
+	  "name":"白银之手",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":9810},
+		 {"name":"矮人","value":706},
+		 {"name":"暗夜精灵","value":9286},
+		 {"name":"侏儒","value":1417},
+		 {"name":"德莱尼","value":1644},
+		 {"name":"狼人","value":824},
+		 {"name":"联盟熊猫人","value":1217},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:238},
+         {"name": "牛头人", "value":247},
+         {"name": "巨魔", "value":222},
+         {"name": "被遗忘者", "value":189},
+         {"name": "血精灵", "value":1204},
+		 {"name":"地精","value":60},
+		 {"name":"部落熊猫人","value":97},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ],
+	 "name":"凤凰之神",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":195},
+		 {"name":"矮人","value":15},
+		 {"name":"暗夜精灵","value":192},
+		 {"name":"侏儒","value":30},
+		 {"name":"德莱尼","value":19},
+		 {"name":"狼人","value":18},
+		 {"name":"联盟熊猫人","value":52},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:2568},
+         {"name": "牛头人", "value":3179},
+         {"name": "巨魔", "value":3162},
+         {"name": "被遗忘者", "value":2577},
+         {"name": "血精灵", "value":14559},
+		 {"name":"地精","value":592},
+		 {"name":"部落熊猫人","value":1546},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ], 
+	  "name":"主宰之剑",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":7024},
+		 {"name":"矮人","value":454},
+		 {"name":"暗夜精灵","value":6521},
+		 {"name":"侏儒","value":985},
+		 {"name":"德莱尼","value":974},
+		 {"name":"狼人","value":571},
+		 {"name":"联盟熊猫人","value":709},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:418},
+         {"name": "牛头人", "value":394},
+         {"name": "巨魔", "value":266},
+         {"name": "被遗忘者", "value":402},
+         {"name": "血精灵", "value":1310},
+		 {"name":"地精","value":56},
+		 {"name":"部落熊猫人","value":126},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ],
+	  "name":"燃烧之刃",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":148},
+		 {"name":"矮人","value":26},
+		 {"name":"暗夜精灵","value":181},
+		 {"name":"侏儒","value":21},
+		 {"name":"德莱尼","value":24},
+		 {"name":"狼人","value":25},
+		 {"name":"联盟熊猫人","value":31},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:2161},
+         {"name": "牛头人", "value":2485},
+         {"name": "巨魔", "value":2568},
+         {"name": "被遗忘者", "value":2271},
+         {"name": "血精灵", "value":10956},
+		 {"name":"地精","value":446},
+		 {"name":"部落熊猫人","value":1126},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ],
+	  "name":"格瑞姆巴托",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":1176},
+		 {"name":"矮人","value":79},
+		 {"name":"暗夜精灵","value":994},
+		 {"name":"侏儒","value":160},
+		 {"name":"德莱尼","value":176},
+		 {"name":"狼人","value":121},
+		 {"name":"联盟熊猫人","value":150},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:1878},
+         {"name": "牛头人", "value":2102},
+         {"name": "巨魔", "value":2056},
+         {"name": "被遗忘者", "value":1870},
+         {"name": "血精灵", "value":9338},
+		 {"name":"地精","value":381},
+		 {"name":"部落熊猫人","value":984},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ],
+	  "name":"末日行者",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":6069},
+		 {"name":"矮人","value":411},
+		 {"name":"暗夜精灵","value":5711},
+		 {"name":"侏儒","value":849},
+		 {"name":"德莱尼","value":935},
+		 {"name":"狼人","value":455},
+		 {"name":"联盟熊猫人","value":663},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:80},
+         {"name": "牛头人", "value":69},
+         {"name": "巨魔", "value":48},
+         {"name": "被遗忘者", "value":90},
+         {"name": "血精灵", "value":263},
+		 {"name":"地精","value":13},
+		 {"name":"部落熊猫人","value":27},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ],
+	  "name":"罗宁",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":5687},
+		 {"name":"矮人","value":374},
+		 {"name":"暗夜精灵","value":5408},
+		 {"name":"侏儒","value":818},
+		 {"name":"德莱尼","value":864},
+		 {"name":"狼人","value":478},
+		 {"name":"联盟熊猫人","value":656},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:70},
+         {"name": "牛头人", "value":87},
+         {"name": "巨魔", "value":66},
+         {"name": "被遗忘者", "value":93},
+         {"name": "血精灵", "value":280},
+		 {"name":"地精","value":16},
+		 {"name":"部落熊猫人","value":38},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ],
+	  "name":"贫瘠之地",
+	  "children": [
+    {
+     "name": "联盟",
+     "children": [
+         {"name":"人类","value":2065},
+		 {"name":"矮人","value":173},
+		 {"name":"暗夜精灵","value":1737},
+		 {"name":"侏儒","value":328},
+		 {"name":"德莱尼","value":364},
+		 {"name":"狼人","value":206},
+		 {"name":"联盟熊猫人","value":253},
+		 {"name":"虚空精灵","value":0},
+		 {"name":"光铸德莱尼","value":0},
+		 {"name":"黑铁矮人","value":0}
+     ]
+	 },
+    {
+     "name": "阵营",
+     "children": [
+         {"name": "兽人",value:1056},
+         {"name": "牛头人", "value":1317},
+         {"name": "巨魔", "value":961},
+         {"name": "被遗忘者", "value":879},
+         {"name": "血精灵", "value":5610},
+		 {"name":"地精","value":266},
+		 {"name":"部落熊猫人","value":608},
+		 {"name":"夜之子","value":0},
+		 {"name":"至高岭牛头人","value":0},
+		 {"name":"玛格汉兽人","value":0},
+		 ]
+  }
+ ]
+  }
+	 ]
+}
+	 

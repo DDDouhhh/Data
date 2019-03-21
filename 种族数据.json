@@ -1,0 +1,36 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "联盟",
+   "children": [
+    {"name": "人类","value":136047},
+	{"name": "矮人","value":10398},
+	{"name": "暗夜精灵","value":120867},
+	{"name": "侏儒","value":10398},
+	{"name": "德莱尼","value":10398},
+	{"name": "狼人","value":10398},
+	{"name": "联盟熊猫人","value":10398},
+	{"name": "虚空精灵","value":10398},
+	{"name": "光铸德莱尼","value":10398},
+	{"name": "黑铁矮人","value":10398},]
+  }
+ ]
+"children": [
+  {
+   "name": "部落",
+   "children": [
+    {"name": "兽人","value":51575},
+	{"name": "亡灵","value":57190},
+	{"name": "牛头人","value":66230},
+	{"name": "巨魔","value":50445},
+	{"name": "血精灵","value":259141},
+	{"name": "地精","value":11776},
+	{"name": "联盟熊猫人","value":27374},
+	{"name": "夜之子","value":15162},
+	{"name": "至高岭牛头人","value":12447},
+	{"name": "玛格汉兽人","value":19364},
+    ]
+  }
+ ]
+}// JSON Document
